@@ -23,7 +23,7 @@ public class Current {
     private Double feels_like;
     private Integer pressure;
     private Integer humidity;
-    private Double dew_poInteger;
+    private Double dew_point;
     private Double uvi;
     private Integer clouds;
     private Integer visibility;

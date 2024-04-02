@@ -1,4 +1,4 @@
-package com.phantomxe.cohortsdefinexhw3.client.dto.onecall;
+package com.phantomxe.cohortsdefinexhw3.client.dto.findcity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -13,11 +13,7 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 @Builder
-public class Temp {
-    private Double day;
-    private Double min;
-    private Double max;
-    private Double night;
-    private Double eve;
-    private Double morn;
+public class Coordinates {
+    private Double lat;
+    private Double lon;
 }
