@@ -11,7 +11,7 @@ import com.phantomxe.cohortsdefinexhw3.client.dto.CityResponse;
 import com.phantomxe.cohortsdefinexhw3.client.dto.OneCallResponse;
 import com.phantomxe.cohortsdefinexhw3.client.dto.findcity.Coordinates;
 import com.phantomxe.cohortsdefinexhw3.client.dto.onecall.Daily;
-import com.phantomxe.exceptions.CityException;
+import com.phantomxe.cohortsdefinexhw3.exceptions.CityException;
 
 import lombok.extern.slf4j.Slf4j;
 
